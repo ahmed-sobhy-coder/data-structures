@@ -1,0 +1,12 @@
+﻿  single_linked.c
+D:\datastructurescodes\single_linked\singlylinkedlist\single_linked.c(6,28): warning C4013: 'malloc' undefined; assuming extern returning int
+D:\datastructurescodes\single_linked\singlylinkedlist\single_linked.c(39,35): warning C4047: '=': 'NODE **' differs in levels of indirection from 'NODE *'
+D:\datastructurescodes\single_linked\singlylinkedlist\single_linked.c(44,26): warning C4047: '=': 'NODE *' differs in levels of indirection from 'NODE **'
+D:\datastructurescodes\single_linked\singlylinkedlist\single_linked.c(318,17): warning C4013: 'free' undefined; assuming extern returning int
+  source.c
+D:\datastructurescodes\single_linked\singlylinkedlist\source.c(8,26): warning C4101: 'next': unreferenced local variable
+D:\datastructurescodes\single_linked\singlylinkedlist\source.c(23,22): warning C4013: 'createList' undefined; assuming extern returning int
+D:\datastructurescodes\single_linked\singlylinkedlist\source.c(23,28): warning C4047: '=': 'NODE *' differs in levels of indirection from 'int'
+  Generating Code...
+D:\datastructurescodes\single_linked\singlylinkedlist\source.c(17): warning C4716: 'reverseList': must return a value
+  singlylinkedlist.vcxproj -> D:\datastructurescodes\datastruct\Debug\singlylinkedlist.exe
